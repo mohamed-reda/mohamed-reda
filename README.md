@@ -16,9 +16,7 @@ Welcome to my GitHub profile! 👋 I'm Mohamed Reda, a dedicated Data Scientist 
 - 🚗 [Used Car Price Prediction](https://github.com/mohamed-reda/used-car-price-prediction) - Applied Linear Regression to predict used car prices.
 - 🛍️ [Retail Customer Insights](https://github.com/mohamed-reda/retail-customer-insights) - Implemented customer segmentation using KMeans and t-SNE.
 
-### Kaggle
 
-Explore my data science competitions and kernels on [Kaggle](https://www.kaggle.com/mohamedandreda).
 
 ## Let's Connect!
 
