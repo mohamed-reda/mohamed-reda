@@ -1,4 +1,4 @@
-# Mohamed Reda - Data Scientist and Machine Learning Engineer
+# Mohamed Reda - Machine Learning Engineer
 
 Welcome to my GitHub profile! 👋 I'm Mohamed, a dedicated Data Scientist and Machine Learning Engineer with nearly 4 years of experience. I specialize in leveraging data-driven insights to solve complex problems and contribute to meaningful projects.
 
