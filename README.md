@@ -14,7 +14,7 @@ Welcome to my GitHub profile! 👋 I'm Mohamed, a dedicated Data Scientist and M
 
 - 📑 [Sonar Signal Classification](https://github.com/mohamed-reda/sonar-signal-classification) - Used Logistic Regression for classifying sonar signals.
 - 🚗 [Used Car Price Prediction](https://github.com/mohamed-reda/used-car-price-prediction) - Applied Linear Regression to predict used car prices.
-- 🛍️ [Retail Customer Insights](https://github.com/mohamed-reda/retail-customer-insights) - Implemented customer segmentation using KMeans and t-SNE.
+- 🛍️ [Retail Customer Insights](https://github.com/mohamed-reda/retail-customer-insights) - Implemented data preprocessing and and behavior analysis using KMeans and t-SNE.
 
 
 
