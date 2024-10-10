@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋 I'm Mohamed, a dedicated AI Engineer and Mach
 
 ## About Me
 
-- 🤖 Passionate about machine learning, statistical analysis, and LLMs.
+- 🤖 Passionate about Machine Learning, Generative AI, and LLMs.
 - 📊 Proficient in Python, NumPy, Pandas, Langchain, scikit-learn, and TensorFlow.
 - 📈 Experienced in AI project development, from ideation to implementation.
 
