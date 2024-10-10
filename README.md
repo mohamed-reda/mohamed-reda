@@ -1,11 +1,11 @@
 # Mohamed Reda - Machine Learning Engineer
 
-Welcome to my GitHub profile! 👋 I'm Mohamed, a dedicated Data Scientist and Machine Learning Engineer with nearly 4 years of experience. I specialize in leveraging data-driven insights to solve complex problems and contribute to meaningful projects.
+Welcome to my GitHub profile! 👋 I'm Mohamed, a dedicated AI Engineer and Machine Learning Engineer with more than 4 years of experience. I specialize in leveraging data-driven insights to solve complex problems and contribute to meaningful projects.
 
 ## About Me
 
-- 🤖 Passionate about machine learning, statistical analysis, and data visualization.
-- 📊 Proficient in Python, NumPy, Pandas, Matplotlib, scikit-learn, and TensorFlow.
+- 🤖 Passionate about machine learning, statistical analysis, and LLMs.
+- 📊 Proficient in Python, NumPy, Pandas, Langchain, scikit-learn, and TensorFlow.
 - 📈 Experienced in AI project development, from ideation to implementation.
 
 ## My Data Science Journey
